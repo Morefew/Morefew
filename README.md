@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Morefew
-- 👀 I’m interested in ... Front-end / Web Dev
-- 🌱 I’m currently learning ... JS, React, ...
-- 💞️ I’m looking to collaborate on ... project for Web Apps
+- 👀 I’m interested in ... Software Dev
+- 🌱 I’m currently learning ... Java, Spring, ...
+- 💞️ I’m looking to collaborate on ... project for web application
 - 📫 How to reach me ...
 
 <!---
