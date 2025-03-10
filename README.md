@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morefew
-- 👀 I’m interested in ... Software Dev
-- 🌱 I’m currently learning ... Java, Spring, ...
+- 👀 I’m interested in ... Software and Web Dev
+- 🌱 I’m currently learning ... Java, Spring, React, MongoDB, ...
 - 💞️ I’m looking to collaborate on ... project for web application
 
 <!---
